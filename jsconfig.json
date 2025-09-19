@@ -19,5 +19,8 @@
   "exclude": [
     "node_modules",
     "dist"
-  ]
+  ],
+  "vueCompilerOptions": {
+    "globalTypesPath": "./src/shims-vue.d.ts"
+  }
 }
