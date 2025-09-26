@@ -1,10 +1,14 @@
 <script setup >
+import Weather from '@/components/Weather.vue';
+
 
 
 </script>
 
 <template>
-  <div></div>
+  <div class="container">
+    <Weather />
+  </div>
 </template>
 
 <style scoped lang="scss">
