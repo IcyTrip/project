@@ -7,7 +7,7 @@ import { RouterView } from 'vue-router';
   <header>
 
   </header>
-  <main>
+  <main class="bg-back">
     <RouterView/>
   </main>
   <footer class=" text-center">
